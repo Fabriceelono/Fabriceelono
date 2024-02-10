@@ -1,10 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F102104&psig=AOvVaw1rX4oNitBCSAX-PyR5MGeR&ust=1707688464261000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbu7ThoYQDFQAAAAAdAAAAABAR" alt="Fabrice Elono - Frontend & Backend Developer">
-  <br>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown">
-  <br>
-  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Fabrice Elono - Frontend & Backend Developer" width="100">
 </div>
 
 <!-- Introduction -->
@@ -24,13 +20,13 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 
 <!-- Projects -->
 ### 🚀 Featured Projects:
-- [Project 1](#) - Brief description of Project 1.
-- [Project 2](#) - Brief description of Project 2.
+- [Major-A](https://majora.sinners.be/) is a comprehensive platform designed to assist young high school graduates in making informed decisions about their academic future. Navigating the myriad of study options available can be daunting, and Major-A aims to simplify this process by providing personalized guidance tailored to each individual's strengths, interests, and career aspirations.
+- [Youth-Compass](https://1acs-2023-team-7.netlify.app/)  is an innovative youth project aimed at fostering a safe online environment for children. In today's digital age, ensuring the safety and well-being of children on the internet is paramount. With this vision in mind, Youth-Compass provides a platform designed to empower kids and help them navigate the online world confidently.
 
 <!-- Connect with me -->
 ### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/fabrice-elono)
-- [Portfolio](https://www.yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/fabriceelono/)
+<!-- [Portfolio](https://www.yourportfolio.com)-->
 
 <!-- Footer -->
 <div align="center">

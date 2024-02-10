@@ -49,6 +49,8 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTub" width="25">
   </a>
 </div>
+
+### Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriceelono)](https://github.com/anuraghazra/github-readme-stats)
 

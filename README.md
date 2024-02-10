@@ -55,10 +55,3 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabriceelono&show_icons=true)  
 
-
-
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Fabrice Elono - Let's build something amazing!" width=100>
-</div>

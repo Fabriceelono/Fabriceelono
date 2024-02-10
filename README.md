@@ -30,5 +30,5 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 
 <!-- Footer -->
 <div align="center">
-  <img src="footer.png" alt="Fabrice Elono - Let's build something amazing!">
+  <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Fabrice Elono - Let's build something amazing!" width=100>
 </div>

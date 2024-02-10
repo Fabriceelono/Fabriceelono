@@ -10,13 +10,25 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 
 <!-- Skills -->
 ### 💻 Technologies & Tools:
-- **Languages:** Python, JavaScript, HTML, CSS, SASS, SQL, Java
-- **Frontend:** Bootstrap, ReactJS, VueJS
-- **Backend:** Node.js, Express.js, Laravel
-- **Databases:** MongoDB, SQL
-- **Tools & Frameworks:** Docker, Vagrant, Kubernetes, Figma, Photoshop, Qlik Sense
-- **Version Control:** Git
-- **Operating Systems:** Linux, Windows
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="50">
+  <img src="https://www.shareicon.net/download/2016/08/01/639868_development.ico" alt="HTML" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SASS" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="SQL" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="50">
+  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Docker" width="50">
+  <img src="https://static-00.iconduck.com/assets.00/vagrant-icon-1981x2048-m89lsyi5.png" alt="Vagrant" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/1280px-Qlik_Logo.svg.png" alt="Qlik Sense" width="50">
+</div>
 
 <!-- Projects -->
 ### 🚀 Featured Projects:

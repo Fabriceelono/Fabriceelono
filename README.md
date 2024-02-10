@@ -1,7 +1,6 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Fabrice Elono - Frontend & Backend Developer" width="100">
-</div>
+![Header](./github-header-image.png)
+
 
 <!-- Introduction -->
 ## Hi there, I'm Fabrice Elono! 👋

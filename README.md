@@ -3,7 +3,7 @@
 
 
 <!-- Introduction -->
-## Hi there, I'm Fabrice Elono! 👋
+## Welcome here! 👋
 
 I'm a passionate Computer Science student based in Belgium with a keen interest in both Frontend and Backend development. With a solid foundation in various technologies, I enjoy building elegant solutions to complex problems.
 

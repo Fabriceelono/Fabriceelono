@@ -50,8 +50,8 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 </div>
 
 ### Stats
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriceelono)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabriceelono&show_icons=true)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabriceelono&show_icons=true" alt="GitHub stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriceelono" alt="Top Langs" width="45%">
+</div>
 

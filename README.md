@@ -42,10 +42,10 @@ I'm a passionate Computer Science student based in Belgium with a keen interest 
 ### 📫 Let's Connect:
 <div>
   <a href="https://www.linkedin.com/in/fabriceelono/">
-    <img src="https://soc.kuleuven.be/immrc/images/linkedin-logo-initials.png/image" alt="LinkedIn" width="25">
+    <img src="https://soc.kuleuven.be/immrc/images/linkedin-logo-initials.png/image" alt="LinkedIn" width="50">
   </a>
   <a href="https://www.youtube.com/@fabriceelono">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTub" width="25">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTub" width="50">
   </a>
 </div>
 
